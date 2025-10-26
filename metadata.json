@@ -1,0 +1,5 @@
+{
+  "name": "StreamHub - Video Streamer",
+  "description": "A sleek and responsive web application designed to stream a curated list of embedded videos. It features a modern dark-themed UI with a sidebar for easy navigation and a main player for an immersive viewing experience.",
+  "requestFramePermissions": []
+}
